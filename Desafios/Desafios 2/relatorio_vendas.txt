@@ -1,0 +1,16 @@
+=== Relatório de Vendas ===
+Cliente: Maxwell
+Produto: calça
+Quantidade: 2
+Valor Bruto: R$ 500.00
+Desconto: R$ 0.00
+Valor Final: R$ 500.00
+--------------------
+Cliente: Stefano
+Produto: Camiseta
+Quantidade: 1
+Valor Bruto: R$ 50.00
+Desconto: R$ 0.00
+Valor Final: R$ 50.00
+--------------------
+Total arrecadado: R$ 550.00
